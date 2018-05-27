@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="disheslist">
+        <item>Pan, stewpan</item>
+        <item>Pot, ladle</item>
+        <item>Brazier</item>
+        <item>Baking tray</item>
+    </string-array>
+</resources>
